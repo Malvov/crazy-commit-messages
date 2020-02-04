@@ -1,0 +1,16 @@
+{
+  "name": "crazy-commit-messages",
+  "version": "1.0.0",
+  "description": "crazy commit messages on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "commit",
+    "crazy"
+  ],
+  "author": "malvov",
+  "license": "ISC"
+}
