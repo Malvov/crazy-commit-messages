@@ -11,6 +11,7 @@
     "commit",
     "crazy"
   ],
+  "git":"https://github.com/Malvov/crazy-commit-messages",
   "author": "malvov",
   "license": "ISC",
   "dependencies": {
